@@ -1,1 +1,1 @@
-# bch8192
+# BCH ECC Algorithm
